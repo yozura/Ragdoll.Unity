@@ -1,2 +1,2 @@
-# Ragdoll_Test
-About Ragdoll and Character Joint in Unity
+# 0912_Ragdoll
+ about Ragdoll and Character Joint
